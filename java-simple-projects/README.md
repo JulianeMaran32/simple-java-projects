@@ -15,3 +15,7 @@
 4. **Projeto: Lambda Expressions e Stream API**
 
    Este projeto demonstra o uso de Expressões Lambda e a Stream API para processar coleções.
+
+5. **Projeto: Variáveis**
+
+   Arquivo Java simples para demonstrar o uso de Variáveis Primitivas, Classes Wrappers e Tipos de Dados.
