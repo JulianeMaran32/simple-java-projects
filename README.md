@@ -1,4 +1,4 @@
-# Simple Java Projects
+# Projetos Simples em Java
 
 * [AnimalPOO](https://github.com/JulianeMaran32/simple-java-projects/tree/main/AnimalPOO) - Projeto Simples de Demonstração dos Pilares da POO em Java
 * [Generics](https://github.com/JulianeMaran32/simple-java-projects/tree/main/Generics) - Projeto Simples Demonstrando Generics
